@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zehra KOZAN
-- 👀 I’m interested in ...
+- 👀 I’m interested in  books and computer 
 - 🌱 I’m currently learning c++,c#,c,html,css,sql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zhrkzn1011@gmail.com
