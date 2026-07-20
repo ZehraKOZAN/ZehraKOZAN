@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Zehra Kozan</h1>
 
 <p align="center">
-  <em>Computer Engineering Student @ Bozok University</em><br/>
+  <em>Computer Engineering  </em><br/>
   <em>Building clean, scalable, and well-structured systems</em>
 </p>
 
@@ -21,7 +21,7 @@
 
 ## 💼 About Me
 
-I am a **Computer Engineering** student at **Bozok University** with a strong interest in software development.  
+I am a **Computer Engineering**  with a strong interest in software development.  
 I focus on building efficient, scalable, and maintainable systems with a solid foundation in **OOP** and core CS principles.
 
 I enjoy working close to both low-level systems and high-level application development, and I continuously strive to improve my engineering mindset through clean code and structured design.
