@@ -1,112 +1,61 @@
-<h1 align="center">👋 Hi, I'm Zehra Kozan</h1>
+<h1 align="center">Zehra Kozan</h1>
+<h3 align="center">Computer Engineer · Software, AI & Intelligent Systems</h3>
 
 <p align="center">
-  <em>Computer Engineering  </em><br/>
-  <em>Building clean, scalable, and well-structured systems</em>
+  <em>From sensor data to scalable backends: I build software that turns data into decisions.</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ZehraKOZAN">
-    <img src="https://img.shields.io/badge/GitHub-ZehraKOZAN-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/zehra-kozan-0812b12b9">
-    <img src="https://img.shields.io/badge/LinkedIn-zehra--kozan-0077B5?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="mailto:16008122004@ogr.bozok.edu.tr">
-    <img src="https://img.shields.io/badge/Email-contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://github.com/ZehraKOZAN"><img src="https://img.shields.io/badge/GitHub-ZehraKOZAN-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://linkedin.com/in/zehra-kozan-0812b12b9"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 💼 About Me
+## 👋 Welcome
 
-I am a **Computer Engineering**  with a strong interest in software development.  
-I focus on building efficient, scalable, and maintainable systems with a solid foundation in **OOP** and core CS principles.
+I'm a Computer Engineering student who enjoys working across the full spectrum of software: machine learning models, backend platforms, mobile apps, and the operating-system and networking fundamentals underneath them. I care about clean architecture, readable code, and solutions that solve real problems.
 
-I enjoy working close to both low-level systems and high-level application development, and I continuously strive to improve my engineering mindset through clean code and structured design.
+## 🧠 What I Do
 
----
+- **Applied AI & Data Science:** anomaly detection for IoT data and human activity recognition with SVM models (Python, Jupyter)
+- **Backend & Platform Development:** structured, object-oriented systems with C#, .NET, ASP.NET Core, and Entity Framework
+- **Mobile & Web:** cross-platform mobile development with Dart and interactive web apps with JavaScript
+- **Systems & Networking:** CPU scheduling algorithms and network simulation in Cisco Packet Tracer
 
-## 🛠️ Technical Skills
+## 🚀 Featured Projects
 
-### Programming Languages
+| Project | Focus | Stack |
+|---------|-------|-------|
+| [**AI3DPlatform**](https://github.com/ZehraKOZAN/AI3DPlatform) | AI-driven 3D platform | C# |
+| [**GldiusRent**](https://github.com/ZehraKOZAN/GldiusRent) | Rental management application | C# |
+| [**IoT-Anomaly-Detection**](https://github.com/ZehraKOZAN/IoT-Anomaly-Detection) | Detecting abnormal patterns in IoT data | Python · Jupyter |
+| [**UCI_HAR_SVMMODEL**](https://github.com/ZehraKOZAN/UCI_HAR_SVMMODEL) | Human activity recognition with SVM | Python · Jupyter |
+| [**insecta_id**](https://github.com/ZehraKOZAN/insecta_id) | Mobile insect identification app | Dart |
+| [**AracCepte**](https://github.com/ZehraKOZAN/AracCepte) | Vehicle-focused web application | JavaScript |
+| [**CPU_scheduler_project**](https://github.com/ZehraKOZAN/CPU_scheduler_project) | CPU scheduling algorithm simulation | Python |
+| [**ProductOrderManagement**](https://github.com/ZehraKOZAN/ProductOrderManagement) | Product and order management system | .NET |
 
-<p>
-  <img src="https://img.shields.io/badge/C++-Advanced-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-.NET%20%7C%20ASP.NET%20Core-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-System%20Programming-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Database%20Design-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML%2FCSS-Web-E34F26?style=flat-square&logo=html5&logoColor=white" />
-</p>
+## 🛠️ Tech Stack
 
-### Frameworks & Tools
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/.NET-Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-Backend-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity_Framework-ORM-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/STL-C++_Standard_Library-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-</p>
+## 🤝 Let's Build Something Together
 
-### Core Competencies
-
-<p>
-  <img src="https://img.shields.io/badge/OOP-Object--Oriented%20Design-20B2AA?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data%20Structures-Algorithms-6A0DAD?style=flat-square" />
-  <img src="https://img.shields.io/badge/Software%20Architecture-Design%20Principles-C0392B?style=flat-square" />
-  <img src="https://img.shields.io/badge/DBMS-Database%20Management-E67E22?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backend-Web%20Development-27AE60?style=flat-square" />
-</p>
-
----
-
-## 📚 Currently Learning
-
-- 🔷 Advanced **C++** techniques and best practices (Modern C++)
-- 🔷 Modern **.NET** ecosystem and scalable backend development
-- 🔷 **Full-stack** development workflows
-- 🔷 Clean code principles and software engineering methodologies
+I'm open to internships, collaborations, and open-source contributions in backend development, applied machine learning, and software architecture. Browse my [repositories](https://github.com/ZehraKOZAN?tab=repositories) to see the details, or [reach out](mailto:YOUR_EMAIL) if you'd like to talk.
 
 ---
-
-## 🤝 Open to Collaboration
-
-I'm interested in working on:
-
-| Area | Description |
-|------|-------------|
-| 🧩 C++ / C# | Open-source projects |
-| ⚙️ Backend | System-level and backend development |
-| 🏗️ Architecture | Software architecture and design |
-| 🗄️ Databases | Database-driven applications |
-| 📖 Academic | Educational and research programming projects |
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZehraKOZAN&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZehraKOZAN&show_icons=true&theme=github_dark&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZehraKOZAN&layout=compact&theme=github_dark&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZehraKOZAN&theme=github-dark-blue&hide_border=true" height="150" />
-</p>
-
----
-
-## ⚡ Fun Facts
-
-- 🔎 I enjoy solving algorithmic and logical problems
-- 🔩 Interested in both system-level and application-layer development
-- 📝 I value clean, readable, and well-documented code
-- 🚀 Always curious about new technologies and programming paradigms
-
----
-
-<p align="center">
-  <em>"Code is like humor. When you have to explain it, it's bad."</em><br/>
-  <strong>— Cory House</strong>
 </p>
