@@ -49,13 +49,19 @@ I'm a Computer Engineering student who enjoys working across the full spectrum o
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🤝 Let's Build Something Together
+## 📊 GitHub Stats
 
-I'm open to internships, collaborations, and open-source contributions in backend development, applied machine learning, and software architecture. Browse my [repositories](https://github.com/ZehraKOZAN?tab=repositories) to see the details, or [reach out](mailto:YOUR_EMAIL) if you'd like to talk.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZehraKOZAN&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZehraKOZAN&layout=compact&theme=github_dark&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ZehraKOZAN&theme=github-dark-blue&hide_border=true" height="150" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZehraKOZAN&show_icons=true&theme=github_dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZehraKOZAN&layout=compact&theme=github_dark&hide_border=true" height="150" />
+  <em>"Code is like humor. When you have to explain it, it's bad."</em> — Cory House
 </p>
